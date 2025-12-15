@@ -1,4 +1,3 @@
-## Hello there, I'm Yabsira 👋
 <h1 align="center">Hello there, I'm Yabsira 👋</h1>
 <p align="center">Top Rated Full Stack Developer • React • Node.js • NestJS</p>
 
