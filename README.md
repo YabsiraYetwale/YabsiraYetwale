@@ -3,7 +3,7 @@
 
 
 
-## 👨‍💻 About Me:
+## 👩‍💻 About Me:
 ⭐ Top Rated @Upwork Dynamic Full Stack Developer with 4+ years of experience in web development.
 
 💻 Proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, and modern frameworks like React and Node.js.
