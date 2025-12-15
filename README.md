@@ -1,4 +1,4 @@
-## 👨‍💻 About Me:
+## About Me:
 ## 👨‍💻 About Me:
 ⭐ Top Rated @Upwork Dynamic Full Stack Developer with 4+ years of experience in web development.
 
