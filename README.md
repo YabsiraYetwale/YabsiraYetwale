@@ -1,4 +1,5 @@
-
+## 👨‍💻 About Me:
+Dynamic Full Stack Developer with 4 years of experience in web development. Proficient in both front-end and back-end technologies, including HTML, CSS, JavaScript, and frameworks like React and Node.js. Experienced in building responsive and user-friendly web applications, with a strong focus on performance and scalability. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Passionate about staying updated with industry trends and continuously improving skills.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yabsirayetwale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yabsirayetwale@gmail.com) 
 
